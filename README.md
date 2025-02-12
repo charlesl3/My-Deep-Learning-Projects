@@ -1,1 +1,1 @@
-## Project 1: signoid functions
+## Project 1: Logistic Regression
