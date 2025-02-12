@@ -24,6 +24,6 @@ The primary objective of this project was to understand and implement the mechan
 
 ## Files Included
 
-- `logistic_regression.py`: Contains the implementation of the logistic regression model, forward propagation, cost function, and backpropagation.
-- `train.py`: Script for training the model on a sample dataset.
+- `Python_Basics_With_Numpy.ipynb`: basic numpy functions
+- `Logistic.ipynb`: Contains the implementation of the logistic regression model, forward propagation, cost function, and backpropagation.
 - `README.md`: Documentation for the project.
