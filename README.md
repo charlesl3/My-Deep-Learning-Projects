@@ -6,4 +6,4 @@
 
 ## Project 4: Regularization of Deep Neural Network
 
-## Project 4: Optimization Methods for Deep Neural Network
+## Project 5: Optimization Methods for Deep Neural Network
